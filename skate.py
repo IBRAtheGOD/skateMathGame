@@ -1,3 +1,15 @@
+import random
+
+#defining some functions
+def askQuestion():
+	#this will ask a random question according to the current trick they're learning
+	pass
+
+def evaluateLevel():
+	#this will tell what trick they're on
+	pass
+
+
 #welcome message
 
 print('This is a game of skate! Well sorta...Answer the questions in time or you get a letter!')
